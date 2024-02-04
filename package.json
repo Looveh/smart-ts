@@ -1,0 +1,8 @@
+{
+  "name": "smart-ts",
+  "version": "1.0.0",
+  "private": false,
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
