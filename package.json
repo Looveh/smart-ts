@@ -2,6 +2,21 @@
   "name": "smart-ts",
   "version": "1.0.0",
   "private": false,
+  "author": "Looveh",
+  "license": "MIT",
+  "description": "Convert between traditional `YYYY-MM-DD` timestamps and smart `WWyu` timestamps.",
+  "main": "main.ts",
+  "homepage": "https://github.com/Looveh/smart-ts#README.md",
+  "scripts": {
+    "test": "bun test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Looveh/smart-ts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Looveh/smart-ts/issues"
+  },
   "dependencies": {
     "moment": "^2.30.1"
   }
