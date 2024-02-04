@@ -2,6 +2,10 @@
 
 Convert between traditional `YYYY-MM-DD` timestamps and smart `WWyu` timestamps.
 
+## Motivation
+
+https://niclas-nilsson.com/blog/5e7-an-alternative-date-notation
+
 ## Usage
 
 ```js
